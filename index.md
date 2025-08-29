@@ -13,14 +13,13 @@ Syntax highlighted code block
 
 # Ashwati's First CS193 Homeworkk
 
-### My favorite things about CS193:
+# My favorite things about CS193:
 - No exams!!
 - The student led nature
 - And it's super _cool_ and _swaggy_
 
-**Bold** and _Italic_ and `Code` text
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Purdue_Pete_modern.jpg/1200px-Purdue_Pete_modern.jpg)
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
