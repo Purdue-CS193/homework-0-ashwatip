@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### My favorite things about CS193:
 - No exams!!
 - The student led nature
-- And it's super cool and swaggy
+- And it's super _cool_ and _swaggy_
 
 **Bold** and _Italic_ and `Code` text
 
