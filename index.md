@@ -18,7 +18,7 @@ Syntax highlighted code block
 - The student led nature
 - And it's super _cool_ and _swaggy_
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Purdue_Pete_modern.jpg/1200px-Purdue_Pete_modern.jpg)
+![Image](https://en.wikipedia.org/wiki/Purdue_Pete)
 
 ```
 
