@@ -1,4 +1,4 @@
-# Ashwati's First CS193 Homeworkk
+# Ashwati's First CS193 Homework
 
 ### My favorite things about CS193:
 - No exams!!
