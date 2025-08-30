@@ -3,6 +3,6 @@
 ### My favorite things about CS193:
 - No exams!!
 - The student led nature
-- And it's super _cool_ and _swaggy_
+- And it's super _cool_ & _swaggy_
 
 
